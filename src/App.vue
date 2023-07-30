@@ -27,7 +27,7 @@ body{
 }
 
 .logo{
-    width: 150px;
+    width: 200px;
 }
 .register input, .login input{
     width: 300px;

@@ -30,7 +30,7 @@ export default {
   padding: 14px 16px;
   text-align: center;
 font-size: 17px;
-text-decoration:none;
+text-decoration: none;
 margin-right: 5px;
 
 }

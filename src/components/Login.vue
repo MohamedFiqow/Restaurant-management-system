@@ -1,5 +1,5 @@
 <template>
-    <img class="logo" src="../assets/logoResto.png" />
+    <img class="logo" src="../assets/rest-logo.png" />
         <h1>Login</h1>
         <div class="login">
 
